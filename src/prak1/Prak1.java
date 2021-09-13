@@ -10,5 +10,6 @@ public class Prak1 {
         Prak1_5.garm_ryd();
         Prak1_6.massivs();
         Prak1_7.fact();
+        System.out.println("^_^");
     }
 }
